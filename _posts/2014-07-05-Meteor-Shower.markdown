@@ -1,4 +1,11 @@
-# The meteor shower
+---
+layout: post
+title:  "The Meteor Shower"
+date:   2014-07-05 06:38:02
+categories: Intro
+---
+
+# The Meteor Shower
 A meteor shower that meteorologists have been monitoring for the last few weeks shot past earth last night in an amazing display. 
 
 The meteor shower lasted a couple of hours and was surprisingly bright considering the clouds where I was. There were over 30 shards visible, with the main piece being over 22 Kilometers in size. 
