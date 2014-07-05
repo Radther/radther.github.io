@@ -10,5 +10,5 @@ A meteor shower that meteorologists have been monitoring for the last few weeks 
 The meteor shower lasted a couple of hours and was surprisingly bright considering the clouds where I was. There were over 30 shards visible, with the main piece being over 22 Kilometers in size. 
 
 Here is some pictures of the event:-
-![meteor 1](/Assets/meteor 1.jpg =500)
-![meteor 2](/Assets/meteor 2.jpg =500)
+![meteor 1](/Assets/meteor 1.jpg)
+![meteor 2](/Assets/meteor 2.jpg)
