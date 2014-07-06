@@ -1,0 +1,10 @@
+# Site settings
+title: OnePixel.TK
+email: onepixel.t@gmail.com
+description: "OnePixel is an amazing blog where you can read up about stuff that I post. Interesting huh."
+baseurl: ""
+url: "http://www.onepixel.tk"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
