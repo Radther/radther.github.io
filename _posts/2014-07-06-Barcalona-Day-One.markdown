@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Barcalona Day 1"
+title:  "Barcelona Day 1"
 date:   2014-07-06 22:58:00
-categories: Barcalona
+categories: Barcelona
 ---
 
 ## The first day
