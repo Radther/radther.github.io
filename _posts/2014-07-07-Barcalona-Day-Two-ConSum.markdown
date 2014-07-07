@@ -1,18 +1,18 @@
 ---
 layout: post
-title:  "Barcalona Day 2: ConSum"
+title:  "Barcelona Day 2: ConSum"
 date:   2014-07-07 20:00:00
-categories: Barcalona
+categories: Barcelona
 ---
 
 ## The Second day
 The second day started nice and early at 7. got out of bed, had a shower and got prepared for our first classes. The weather wasn't so fortunate today, there was a bit thunder and lightning but the rain wasn't torrential. 
 
-Once we were at the campus we were given an introdution to the course and the university. The uni is nice and well laid out, if not a bit dated. We went to our first lesson and were seated in front of some windows XP machines... in Spanish. 
+Once we were at the campus we were given an introduction to the course and the university. The uni is nice and well laid out, if not a bit dated. We went to our first lesson and were seated in front of some windows XP machines... in Spanish. 
 
-Our first class was was two hours of slides talking about biometric data and how it is recorded. Unfortunatly we didn't get a lot of sleep so staying awake was definatly a chore, even if the content was interesting. The second class was Networking, here we actually got to make use of the spanish computers that were are no longer supported and opened up a program(I won't bore you with the details).
+Our first class was was two hours of slides talking about biometric data and how it is recorded. Unfortunately we didn't get a lot of sleep so staying awake was definitely a chore, even if the content was interesting. The second class was Networking, here we actually got to make use of the Spanish computers that were are no longer supported and opened up a program(I won't bore you with the details).
 
-After this we decided to get some stuff from the local SuperMarket, Consum(pronounced consume), as everything is closed on a sunday. While we are on the subject of things being closed, everything closes at about 1 here, for a siesta(a nap in the middle of the day), and then everythin reopensabout 6ish. This caused some major problems trying to find somewhere to eat yesterday, thank God for McDonalds right.
+After this we decided to get some stuff from the local Super Market, Consum(pronounced consume), as everything is closed on a Sunday. While we are on the subject of things being closed, everything closes at about 1 here, for a siesta(a nap in the middle of the day), and then everything reopens about 6ish. This caused some major problems trying to find somewhere to eat yesterday, thank God for McDonald right.
 
 We bought some general supplies like Chips, Chicken Nuggets and Pizza. After collecting our meals for the day we headed back to the house to relax and play some Uno. After our relax we walked back down to Consum for sweets and drinks. 
 
