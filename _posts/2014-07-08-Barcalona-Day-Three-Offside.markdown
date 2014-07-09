@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Barcelona Day 2: Offside (Don't worry, I'm not going to explain it)
+title:  Barcelona Day 3: Offside (Don't worry, I'm not going to explain it)
 date:   2014-07-08 07:35:00
 categories: Barcelona
 ---
