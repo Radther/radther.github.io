@@ -1,9 +1,9 @@
 # Site settings
-title: OnePixel.TK
-email: onepixel.t@gmail.com
-description: "OnePixel is an amazing blog where you can read up about stuff that I post. Interesting huh."
+title: University blog
+email: singlett@uni.coventry.ac.uk
+description: "A blog for University related posts"
 baseurl: ""
-url: "http://www.onepixel.tk"
+url: "RDevBlog.com"
 
 # Build settings
 markdown: kramdown
