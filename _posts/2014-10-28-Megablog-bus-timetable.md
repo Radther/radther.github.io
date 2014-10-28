@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “Megablog Bus Timetable”
+title:  Megablog: The really rubbish interaction challenge
 date:   2014-10-28 15:30:00
 categories: Megablog
 ---
