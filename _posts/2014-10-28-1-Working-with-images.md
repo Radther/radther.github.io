@@ -5,8 +5,6 @@ date:   2014-10-28 15:12:00
 categories: Design
 ---
 
-# Working with images
-
 ## The Issue
 Looking at this picture, the problem to me seemed to be that carrying the cans of drink put strain on the persons hand. Having carried cans like this before I know that after a couple of minutes the plastic leaves marks in your hand and can hurt a bit.
 
