@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  2. Usability-in-Itself and Usability-in-Life
+title:  3. Usability-in-Itself and Usability-in-Life
 date:   2014-11-05 19:57:00
 categories: Design
 ---
