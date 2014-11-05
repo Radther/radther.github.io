@@ -4,12 +4,13 @@ title:  3. Usability-in-Itself and Usability-in-Life
 date:   2014-11-05 19:57:00
 categories: Design
 ---
-
+## Definitions
 **Usability in itself:** This is when the technology is tested in a lab and not in the real world, to see ho usable it is. Testing is done in a controlled environment and measured quantifiably.  
 
 **Usability in life:** This is when technology is tested in the real world. This is used to show problems that wouldn’t arise in lab based testing. 
 
 ## How usable is the room control panel
+
 ### Usable in itself
 To test this I would first look at the tasks the device would be used for, e.g. opening the window. I would then make a note of the minimum number of steps required to complete that task.
 
