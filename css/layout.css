@@ -41,7 +41,7 @@ body {
 
 .container { 
 	position: relative; 
-	width: 1200px; 
+	width: 80%; 
 	margin: 0 auto; 
 	-webkit-transition: all 1s ease;
   -moz-transition: all 1s ease;
@@ -70,9 +70,17 @@ body {
 	}
 	
 	#filters li span.active {
-		border-bottom: 10px solid #CDDC39;
-		/*background: #CDDC39;*/
+		border-bottom: 10px solid #4CAF50;
+		/*background: #4CAF50;*/
 		color:#fff;
+	}
+
+	#filters li span #blog {
+		display: block;
+		/*padding:5px 20px;		*/
+		text-decoration:none;
+		color:#FFFFFF;
+		cursor: pointer;
 	}
  
 
@@ -81,7 +89,7 @@ body {
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	-o-box-sizing: border-box;
-	width:23%;
+	width:22%;
 	margin:1%;
 	display:none;
 	float:left;
@@ -108,7 +116,7 @@ body {
 	}
 
 		.portfolio .label-bg {
-			background: #e95a44;
+			background: #4CAF50;
 			width: 100%;
 			height:100%;
 			position: absolute;
@@ -162,7 +170,7 @@ body {
 /* #Mobile (Landscape) - Note: Design for a width of 480px */
 @media only screen and (min-width: 480px) and (max-width: 767px) {
 	.container {
-		width: 100%;
+		width: 95%%;
 	}
 	
 	#ads {
